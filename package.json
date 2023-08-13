@@ -16,7 +16,7 @@
     "cors": "^2.8.5"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/yale-lowdb-crud-example"
@@ -24,7 +24,6 @@
   "license": "MIT",
   "keywords": [
     "node",
-    "glitch",
-    "express"
+    "glitch"
   ]
 }
